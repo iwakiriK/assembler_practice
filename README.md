@@ -1,2 +1,2 @@
 # assembler_practice
-i386 and ARM
+i386とARMの勉強として制作したコード集
